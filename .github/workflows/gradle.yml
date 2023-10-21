@@ -22,7 +22,7 @@ jobs:
           java-version: 11
 
       - name: Start SUT
-        run: java -jar aqa-shop.jar -port=9090 -P:profile=test &
+        run: java -jar aqa-shop.jar &
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
       - name: Build with Gradle
