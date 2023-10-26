@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 
 public class DataHelper {
-    private static Faker fakerEn = new Faker(new Locale("en"));
+    private static final Faker fakerEn = new Faker(new Locale("en"));
     private static Faker fakerRu = new Faker(new Locale("ru"));
 
     private DataHelper() {

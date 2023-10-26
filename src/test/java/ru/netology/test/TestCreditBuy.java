@@ -122,7 +122,7 @@ public class TestCreditBuy {
     }
 
     @Test
-    void shouldDenyPurchaseCardNumberWith1Digit() {
+     void shouldDenyPurchaseCardNumberWith1Digit() {
         paymentFormPageCredit = mainPage.payWithCreditCard()
                 .clear();
         val cardNumber = DataHelper.getCardNumberWith1Digit();
@@ -408,7 +408,7 @@ public class TestCreditBuy {
     }
 
     @Test
-    void shouldDenyPurchaseWithWrongFormatCode() {
+     void shouldDenyPurchaseWithWrongFormatCode() {
         paymentFormPageCredit = mainPage.payWithCreditCard()
                 .clear();
         val cardNumber = DataHelper.getFirstCardNumber();
