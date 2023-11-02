@@ -15,11 +15,9 @@
 количество успешных тест-кейсов - 28 (46,66%)
 количество не успешных тест-кейсов - 32 (53,44%)
 
-![img_2.png](img_2.png)
 
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-
+![image](https://github.com/DenisPopov89/Diplom/assets/113454542/c9883a37-809b-4efe-ba7a-6989b3da93f7)
+![image2](https://github.com/DenisPopov89/Diplom/assets/113454542/3b33eeaf-56e1-4f31-9df9-41af21871f1e)
 
 
 
