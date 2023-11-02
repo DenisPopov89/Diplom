@@ -15,14 +15,8 @@
 количество успешных тест-кейсов - 28 (46,66%)
 количество не успешных тест-кейсов - 32 (53,44%)
 
-<<<<<<< HEAD
-=======
-
 ![image](https://github.com/DenisPopov89/Diplom/assets/113454542/c9883a37-809b-4efe-ba7a-6989b3da93f7)
 ![image2](https://github.com/DenisPopov89/Diplom/assets/113454542/3b33eeaf-56e1-4f31-9df9-41af21871f1e)
-
->>>>>>> 29c218231df0d0a002b074198cc74b03c07472e8
-
 
 ## Итог:
 по окончанию тестирования заведены следующие [issues](https://github.com/DenisPopov89/Diplom)
